@@ -16,11 +16,13 @@ public final class Database {
 		//1. Follow a Singleton Design Pattern.
 		//2. If instance is null, create a new Database.
 		//3. Return Database instance if instance is not null.
+		return null;
 	}
 	
 	public User getUser(String username) {
 		//1. If user exists, fetch user from HashMap with key=[username] and return it
 		//2. Return null if user does not exist.
+		return null;
 	}
 	
 	public void storeUser(User user) {

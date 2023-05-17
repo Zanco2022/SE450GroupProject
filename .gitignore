@@ -1,2 +1,15 @@
 /Authentication.class
 /Database.class
+/Cardio.class
+/CoreStrength.class
+/LowerBody.class
+/Trainer.class
+/UpperBody.class
+/User.class
+/Workout.class
+/WorkoutPlan.class
+/Breakfast.class
+/Diet.class
+/DietPlan.class
+/Dinner.class
+/Lunch.class

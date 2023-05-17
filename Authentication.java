@@ -9,6 +9,7 @@ public class Authentication {
 		//1. Get user data from the Database class.
 		//2. Authenticate incoming parameters with database.
 		//3. Return a user object if successful, else return null.
+		return null;
 	}
 	
 	public void signup(String username, String password) {
