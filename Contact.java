@@ -4,5 +4,5 @@ public class Contact {
 	
 	public Contact(email email, TextField sendYourMessage)
 		this.email = email;
-		this.sendYourMessage = sendYourMessage;s
+		this.sendYourMessage = sendYourMessage;
 }
